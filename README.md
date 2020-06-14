@@ -1,2 +1,2 @@
 # All-Task-location
- https://tanzeela12345.github.io/All-Task-location/.
+ https://tanzeelajaved.github.io/All-Task-location/.
